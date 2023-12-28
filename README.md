@@ -72,7 +72,7 @@
 
 
 ## Institutes, departments and labs
-> Ordered alphabetically by country code and city.
+> Ordered alphabetically by country code and institution name.
 
 |   |         |         |               |
 | - | :-----: | :-----: | :-----------: |
