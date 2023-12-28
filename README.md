@@ -23,7 +23,7 @@
 | CompleNet | [🌐](https://complenet.weebly.com/) | [📢](https://twitter.com/CompleNet) |
 | Complex Networks | [🌐](https://complexnetworks.org) | |
 | Conference on Complex Systems | [🌐](https://cssociety.org/ccs) | |
-| IC2S2 | [🌐](https://www.ic2s2.org/) | [📢](https://twitter.com/IC2S2) |
+| IC2S2 | | [📢](https://twitter.com/IC2S2) |
 | NetSci / NetSci-X | [🌐](https://netscisociety.net/events/netsci) | |
 | Sunbelt | [🌐](https://www.insna.org/events/insna-conferences) | |
 
