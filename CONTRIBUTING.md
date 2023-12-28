@@ -5,7 +5,7 @@ request](https://github.com/yrCSS/awesome-complex-systems-community/pulls?q=is%3
 or by starting a discussion in a new
 [issue](https://github.com/yrCSS/awesome-complex-systems-community/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
 If you're not familiar with pull requests, you can either make it from a fork, following the
-detailed instruction from [this Stackoverlow
-comment](https://stackoverflow.com/a/146808050), or more simply use GitHub's web
+detailed instruction from [this Stack Overflow
+comment](https://stackoverflow.com/a/14680805), or more simply use GitHub's web
 interface to make one, as explained in [this other
 comment](https://stackoverflow.com/a/61152349).
