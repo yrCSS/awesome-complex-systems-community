@@ -103,7 +103,7 @@
 | LASIGE, University of Lisbon | PT | [🌐](https://www.lasige.pt/research-line/data-and-systems-intelligence/) | |
 | The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London | UK | [🌐](https://www.ucl.ac.uk/bartlett/casa) | [📢](https://twitter.com/CASAUCL) |
 | Bio-Inspired Computing, Complex Networks, and Human Dynamics Laboratory, University of Exeter | UK | | [📢](https://twitter.com/BioComplexLab) |
-| Indiana University Network Science Institute (IUNI)| US | [🌐](https://iuni.iu.edu/) | [📢](https://twitter.com/IUNetSci) |
+| Indiana University Network Science Institute (IUNI), Bloomington | US | [🌐](https://iuni.iu.edu/) | [📢](https://twitter.com/IUNetSci) |
 | Network Science Institute (NetSI) <br/> - Boston <br/> - London | <br/> US <br/> UK | [🌐](https://www.networkscienceinstitute.org) <br/>  <br/>  |[📢](https://twitter.com/NUnetsi) <br/> <br/> |
 | Santa Fe Institute | US | [🌐](https://santafe.edu/) | [📢](https://twitter.com/sfiscience) |
 | Vermont Complex Systems Center, University of Vermont | US | [🌐](https://vermontcomplexsystems.org/) | [📢](https://twitter.com/uvmcomplexity) |
