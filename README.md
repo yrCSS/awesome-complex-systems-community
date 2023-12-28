@@ -67,7 +67,7 @@
 - [EMCRs' "Academic life" page](https://sites.google.com/view/emcrs-social-networks/academic-life)
 - [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
 - [So long, and thanks for all the tips](https://imstat.org/2022/04/01/written-by-witten-so-long-and-thanks-for-all-the-tips/)
-- [Twenty things I wish I’d known when I started my PhD (open access version)](https://www.researchgate.net/publication/328775212_Twenty_things_I_wish_I'd_known_when_I_started_my_PhD)
+- [Twenty things I wish I’d known when I started my PhD (open access version)](https://www.researchgate.net/profile/Lucy-Taylor-33/publication/328775212_Twenty_things_I_wish_I'd_known_when_I_started_my_PhD/links/5be60c1fa6fdcc3a8dcb198c/Twenty-things-I-wish-Id-known-when-I-started-my-PhD.pdf)
 
 
 
