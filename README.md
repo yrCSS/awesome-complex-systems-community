@@ -110,7 +110,6 @@
 | Binghamton Center of Complex Systems (CoCo), Binghamton University | US | [🌐](http://coco.binghamton.edu) | [📢](https://twitter.com/BinghamtonCoCo) |
 | Indiana University Network Science Institute (IUNI), Bloomington | US | [🌐](https://iuni.iu.edu/) | [📢](https://twitter.com/IUNetSci) |
 | Network Science Institute (NetSI) <br/> - Boston <br/> - London | <br/> US <br/> UK | [🌐](https://www.networkscienceinstitute.org) <br/>  <br/>  |[📢](https://twitter.com/NUnetsi) <br/> <br/> |
-| Binghamton Center of Complex Systems (CoCo) | US | [🌐](https://coco.binghamton.edu//) | [📢](https://twitter.com/BinghamtonCoCo) |
 | Santa Fe Institute (SFI) | US | [🌐](https://santafe.edu/) | [📢](https://twitter.com/sfiscience) |
 | Vermont Complex Systems Center, University of Vermont | US | [🌐](https://vermontcomplexsystems.org/) | [📢](https://twitter.com/uvmcomplexity) |
 | Yale Institute for Network Science, New Haven | US | [🌐](https://yins.yale.edu/) | [📢](https://twitter.com/YINSedge) |
