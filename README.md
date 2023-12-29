@@ -59,6 +59,8 @@
 ## Online courses
 > Ordered alphabetically.
 
+- [#ComplexityExplained](https://complexityexplained.github.io/)
+- [Complexity Explorables by Dirk Brockmann](https://complexity-explorables.org/)
 - [SFI's Complexity Explorer](https://www.complexityexplorer.org)
 
 
