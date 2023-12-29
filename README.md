@@ -48,6 +48,7 @@
 |   |         |               |
 | - | :-----: | :-----------: |
 | ANET | [🌐](https://anet.krtk.mta.hu/seminars/) | [📢](https://twitter.com/AnetiLabs) |
+| CoCo | [▶](http://coco.binghamton.edu/#seminar) | [📢](https://twitter.com/BinghamtonCoCo) |
 | IFISC | [▶](https://www.youtube.com/@IFISCseminars/videos) | [📢](https://ifisc.uib-csic.es/en/events/seminars/) |
 | Interaction Data Lab | [▶](https://www.youtube.com/@interactiondatalab2056/videos) | [📢](https://twitter.com/interactiondata) |
 | NetPLACE | [▶](https://www.youtube.com/@netplace3823/videos) | [📢](https://twitter.com/netplace_semi) |
@@ -103,6 +104,7 @@
 | LASIGE, University of Lisbon | PT | [🌐](https://www.lasige.pt/research-line/data-and-systems-intelligence/) | |
 | The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London | UK | [🌐](https://www.ucl.ac.uk/bartlett/casa) | [📢](https://twitter.com/CASAUCL) |
 | Bio-Inspired Computing, Complex Networks, and Human Dynamics Laboratory, University of Exeter | UK | | [📢](https://twitter.com/BioComplexLab) |
+| Binghamton Center of Complex Systems (CoCo), Binghamton University | US | [🌐](http://coco.binghamton.edu) | [📢](https://twitter.com/BinghamtonCoCo) |
 | Indiana University Network Science Institute (IUNI), Bloomington | US | [🌐](https://iuni.iu.edu/) | [📢](https://twitter.com/IUNetSci) |
 | Network Science Institute (NetSI) <br/> - Boston <br/> - London | <br/> US <br/> UK | [🌐](https://www.networkscienceinstitute.org) <br/>  <br/>  |[📢](https://twitter.com/NUnetsi) <br/> <br/> |
 | Santa Fe Institute (SFI) | US | [🌐](https://santafe.edu/) | [📢](https://twitter.com/sfiscience) |
