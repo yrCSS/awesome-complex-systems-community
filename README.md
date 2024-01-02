@@ -86,7 +86,7 @@
 | NEtwoRks, Data, and Society (NERDS), IT University of Copenhagen | DK | [🌐](https://nerds.itu.dk) | [📢](https://datasci.social/@nerdsitu) |
 | Complex Systems Lab, Universitat Pompeu Fabra, Barcelona | ES | [🌐](http://complex.upf.edu/) | |
 | Grupo Interdisciplinar de Sistemas Complejos (GISC), Universidad Carlos III de Madrid | ES | [🌐](https://valbuena.fis.ucm.es/gisc) | [📢](https://twitter.com/gisc_group) |
-| Institute of Complex Systems of the University of Barcelona (UBICS), Barcelona | ES | [🌐](https://http://ubics.ub.edu/) | [📢](https://https://twitter.com/UB_ICS) |
+| Institute of Complex Systems of the University of Barcelona (UBICS), Barcelona | ES | [🌐](http://ubics.ub.edu/) | [📢](https://twitter.com/UB_ICS) |
 | Institute for Cross-Disciplinary Physics and Complex Systems (IFISC), Palma | ES | [🌐](https://ifisc.uib-csic.es/) | [📢](https://twitter.com/IFISC_mallorca) |
 | Science and Engineering of Emerging Systems (SEES) Lab, Universitat Rovira i Virgili, Tarragona | ES | [🌐](http://seeslab.info/) | [📢](https://twitter.com/sees_lab) |
 | Center for Collective Learning <br/> - University of Toulouse <br/> - Corvinus University, Budapest | <br/> FR <br/> HU | [🌐](https://centerforcollectivelearning.org) <br/> <br/> | <br/> <br/> <br/> |
