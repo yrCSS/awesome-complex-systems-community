@@ -115,7 +115,7 @@
 | Yale Institute for Network Science, New Haven | US | [🌐](https://yins.yale.edu/) | [📢](https://twitter.com/YINSedge) |
 
 
-## Other lists
+## Other awesome lists
 > Ordered alphabetically.
 
 - [Awesome Complexity by sellisd](https://github.com/sellisd/awesome-complexity)
