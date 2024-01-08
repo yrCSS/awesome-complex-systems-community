@@ -43,6 +43,7 @@ for more info. **All contributions welcome!**
 |   |         |               |
 | - | :-----: | :-----------: |
 | Complexity 72h | [🌐](https://www.complexity72h.com/) | [📢](https://twitter.com/Complexity72h) |
+| IceLab Camp | [🌐](https://icelab.se/event) | [📢](https://twitter.com/IceLab_umea) |
 | Lake Como Schools <br/> - Advances in complex systems <br/> - Computational Social Science <br/> - Complex Networks | <br/> [🌐](https://acsz.lakecomoschool.org) <br/> [🌐](https://css.lakecomoschool.org) <br/> [🌐](https://ntmh.lakecomoschool.org) | |
 | Les Houches School of Physics | [🌐](https://www.houches-school-physics.com/program/) | |
 | Mediterranean School of Complex Networks | [🌐](https://mediterraneanschoolcomplex.net/) | [📢](https://twitter.com/MscxNetworks) |
@@ -77,13 +78,12 @@ for more info. **All contributions welcome!**
 > Ordered alphabetically.
 
 - [EMCRs' "Academic life" page](https://sites.google.com/view/emcrs-social-networks/academic-life)
-- [NetPLACE "Blog" page](https://sites.google.com/view/netplace/blog)
 - [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
-- [So long, and thanks for all the tips](https://imstat.org/2022/04/01/written-by-witten-so-long-and-thanks-for-all-the-tips/)
-- Twenty things I wish I’d known when I started my PhD, [Nature](https://www.nature.com/articles/d41586-018-07332-x) / [open access version](https://www.researchgate.net/profile/Lucy-Taylor-33/publication/328775212_Twenty_things_I_wish_I'd_known_when_I_started_my_PhD/links/5be60c1fa6fdcc3a8dcb198c/Twenty-things-I-wish-Id-known-when-I-started-my-PhD.pdf)
 - [How to write a scientific paper](https://users.aalto.fi/~jsaramak/HowToWriteCommsCoffee.pdf) - Jari Saramäki [(talk at CCS2022 warm-up)](https://www.youtube.com/watch?v=czpwDkCTDjQ)
-
-
+- [NetPLACE "Blog" page](https://sites.google.com/view/netplace/blog)
+- [So long, and thanks for all the tips](https://imstat.org/2022/04/01/written-by-witten-so-long-and-thanks-for-all-the-tips/)
+- [The Thesis Whisperer](https://thesiswhisperer.com/)
+- Twenty things I wish I’d known when I started my PhD, [Nature](https://www.nature.com/articles/d41586-018-07332-x) / [open access version](https://www.researchgate.net/profile/Lucy-Taylor-33/publication/328775212_Twenty_things_I_wish_I'd_known_when_I_started_my_PhD/links/5be60c1fa6fdcc3a8dcb198c/Twenty-things-I-wish-Id-known-when-I-started-my-PhD.pdf)
 
 ## Institutes, departments and labs
 > Ordered alphabetically by country code and institution name.
@@ -94,6 +94,7 @@ for more info. **All contributions welcome!**
 | Department of Network & Data Science (DNDS), Central European University, Vienna | AT | [🌐](https://networkdatascience.ceu.edu) | [📢](https://twitter.com/dnds_ceu) |
 | Complex Systems and Data Science group, University of Sidney | AU | [🌐](https://www.maths.usyd.edu.au/u/ega/group/) | |
 | Computational Social Science (COSS), ETH Zürich | CH | [🌐](https://coss.ethz.ch/) | |
+| Copenhagen Center for Social Data Science (SODAS), University of Copenhagen | DK | [🌐](https://sodas.ku.dk/) | [📢](https://twitter.com/CPH_SODAS) |
 | NEtwoRks, Data, and Society (NERDS), IT University of Copenhagen | DK | [🌐](https://nerds.itu.dk) | [📢](https://datasci.social/@nerdsitu) |
 | Complex Systems Lab, Universitat Pompeu Fabra, Barcelona | ES | [🌐](http://complex.upf.edu/) | |
 | Grupo Interdisciplinar de Sistemas Complejos (GISC), Universidad Carlos III de Madrid | ES | [🌐](https://valbuena.fis.ucm.es/gisc) | [📢](https://twitter.com/gisc_group) |
@@ -124,7 +125,6 @@ for more info. **All contributions welcome!**
 | Santa Fe Institute (SFI) | US | [🌐](https://santafe.edu/) | [📢](https://twitter.com/sfiscience) |
 | Vermont Complex Systems Center, University of Vermont | US | [🌐](https://vermontcomplexsystems.org/) | [📢](https://twitter.com/uvmcomplexity) |
 | Yale Institute for Network Science, New Haven | US | [🌐](https://yins.yale.edu/) | [📢](https://twitter.com/YINSedge) |
-
 
 ## Other awesome lists
 > Ordered alphabetically.
