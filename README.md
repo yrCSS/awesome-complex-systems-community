@@ -69,8 +69,10 @@ for more info. **All contributions welcome!**
 ## Online courses
 > Ordered alphabetically.
 
+- [Aaron Clauset's teaching materials](https://aaronclauset.github.io/teaching.htm)
 - [#ComplexityExplained](https://complexityexplained.github.io/)
 - [Complexity Explorables by Dirk Brockmann](https://complexity-explorables.org/)
+- [Complex Networks course by Rémy Cazabet](http://cazabetremy.fr/Teaching/CN/ComplexNetworks.html)
 - [SFI's Complexity Explorer](https://www.complexityexplorer.org)
 
 
