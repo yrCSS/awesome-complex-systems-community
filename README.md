@@ -117,6 +117,7 @@ for more info. **All contributions welcome!**
 | Knowledge Discovery and Data Mining Laboratory (KDD Lab), Pisa | IT | [🌐](https://kdd.isti.cnr.it) | |
 | Sony Computer Science Laboratories (CSL) <br/> - Rome <br/> - Paris | <br/> IT <br/> FR | <br/> [🌐](https://csl.sony.it) <br/> [🌐](https://csl.sony.fr) | <br/> [📢](https://twitter.com/SonyCSLRome) <br/> [📢](https://twitter.com/SonyCSLParis) |
 | Complex Systems Department, Instituto de Física, Universidad Nacional Autónoma de México | MX | [🌐](https://www.fisica.unam.mx/investigacion/departamentos/sistemas_complejos/index.php?lang=en) | |
+| Centre for Complex Systems Studies, Utrecht | NL | [🌐](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss) | [📢](https://twitter.com/ccss_uu) |
 | Te Pūnaha Matatini, Auckland | NZ | [🌐](https://www.tepunahamatatini.ac.nz) | |
 | LASIGE, University of Lisbon | PT | [🌐](https://www.lasige.pt/research-line/data-and-systems-intelligence/) | |
 | The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London | UK | [🌐](https://www.ucl.ac.uk/bartlett/casa) | [📢](https://twitter.com/CASAUCL) |
