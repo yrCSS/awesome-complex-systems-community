@@ -96,6 +96,7 @@ for more info. **All contributions welcome!**
 | Department of Network & Data Science (DNDS), Central European University, Vienna | AT | [🌐](https://networkdatascience.ceu.edu) | [📢](https://twitter.com/dnds_ceu) |
 | Complex Systems and Data Science group, University of Sidney | AU | [🌐](https://www.maths.usyd.edu.au/u/ega/group/) | |
 | Computational Social Science (COSS), ETH Zürich | CH | [🌐](https://coss.ethz.ch/) | |
+| Instituto de Sistemas Complejos de Valparaiso (ICSV) | CL | [🌐](https://sistemascomplejos.cl/) | [📢](https://twitter.com/ComplejosISCV) |
 | Copenhagen Center for Social Data Science (SODAS), University of Copenhagen | DK | [🌐](https://sodas.ku.dk/) | [📢](https://twitter.com/CPH_SODAS) |
 | NEtwoRks, Data, and Society (NERDS), IT University of Copenhagen | DK | [🌐](https://nerds.itu.dk) | [📢](https://datasci.social/@nerdsitu) |
 | Complex Systems Lab, Universitat Pompeu Fabra, Barcelona | ES | [🌐](http://complex.upf.edu/) | |
