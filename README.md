@@ -112,6 +112,7 @@ for more info. **All contributions welcome!**
 | Center for AI (CENTAI), Turin | IT | [🌐](https://centai.eu/home) | [📢](https://twitter.com/CentaiInstitute) |
 | Centro Ricerche Enrico Fermi (CREF), Rome | IT | [🌐](https://cref.it/en) | [📢](https://twitter.com/cref_official) |
 | Complex Human Behavior (CHuB) Lab, Fondazione Bruno Kessler, Trento | IT | [🌐](https://chub.fbk.eu/) | [📢](https://twitter.com/chub_fbk) |
+| Collaborative Laboratory of Interdisciplinary Physics (LIPh), University of Padova | IT | [🌐](https://www.liphlab.com/) | [📢](https://twitter.com/LIPh_Lab) |
 | CoMuNe Lab, University of Padova | IT | [🌐](https://manliodedomenico.com/people.php) | [📢](https://twitter.com/ComuneLab) |
 | IMT Lucca | IT | [🌐](https://www.imtlucca.it/en) | |
 | ISI Foundation, Turin | IT | [🌐](https://isi.it/) | [📢](https://twitter.com/ISI_Fondazione) |
@@ -141,3 +142,4 @@ for more info. **All contributions welcome!**
 - [awesome-PhD](https://github.com/helenahartmann/awesome-PhD)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
+- [Complexity Thoughts](https://manlius.substack.com/)
