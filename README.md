@@ -13,7 +13,6 @@ for more info. **All contributions welcome!**
 | - | :-----: | :-----------: |
 | AccelNet-MultiNet | [🌐](https://www.accelnet-multinet.org/) | [📢](https://twitter.com/MultilayerNets) |
 | Complex Systems Society | [🌐](https://cssociety.org) | [📢](https://twitter.com/CompSysSoc) |
-| Complexity Digest | [🌐](https://comdig.unam.mx/) | [📢](https://twitter.com/cxdig) |
 | Early and Middle Career Researchers on Social Networks (EMCRs) | [🌐](https://sites.google.com/view/emcrs-social-networks) | [📢](https://twitter.com/emcr_sna) |
 | International Network for Social Network Analysis (INSNA) | [🌐](https://www.insna.org/) | [📢](https://twitter.com/SocNetAnalysts) |
 | Networks, Phd Life And ComplExity Seminars (NetPLACE) | [🌐](https://sites.google.com/view/netplace/home-page) | [📢](https://twitter.com/netplace_semi) |
@@ -49,7 +48,9 @@ for more info. **All contributions welcome!**
 | Mediterranean School of Complex Networks | [🌐](https://mediterraneanschoolcomplex.net/) | [📢](https://twitter.com/MscxNetworks) |
 | NetHike | [🌐](https://sn.ethz.ch/nethike.html) | |
 | SFI | [🌐](https://santafe.edu/engage/learn/programs) | |
+| Spring College on the Physics of Complex Systems (ICTP) | [🌐](https://indico.ictp.it/event/10459) | [📢](https://twitter.com/ictpnews)
 | Winter Workshop on Complex Systems | [🌐](https://wwcs2024.github.io/) | [📢](https://twitter.com/winter_complex) |
+
 
 
 ## Seminar series
@@ -64,6 +65,15 @@ for more info. **All contributions welcome!**
 | NetPLACE | [▶](https://www.youtube.com/@netplace3823/videos) | [📢](https://twitter.com/netplace_semi) |
 | SFI | [▶](https://www.youtube.com/@SFIScience/videos) | [📢](https://twitter.com/sfiscience) |
 | WiNS | [▶](https://www.youtube.com/@winsseminar9853/videos) | [📢](https://twitter.com/WiNS_Society) |
+
+
+## Mailing lists and news feeds
+> Ordered alphabetically.
+
+- [Complex cities](https://sympa.unil.ch/sympa/subscribe/complex_cities)
+- [Complexity Digest](https://comdig.unam.mx/subscriptions/) (also a [Twitter
+  account](https://twitter.com/cxdig))
+- [SOCNET - The Social Networks Listserv](https://www.insna.org/socnet)
 
 
 ## Online courses
