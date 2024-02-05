@@ -70,8 +70,10 @@ for more info. **All contributions welcome!**
 ## Mailing lists and news feeds
 > Ordered alphabetically.
 
+- [Complex cities](https://sympa.unil.ch/sympa/subscribe/complex_cities)
 - [Complexity Digest](https://comdig.unam.mx/subscriptions/) (also a [Twitter
   account](https://twitter.com/cxdig))
+- [SOCNET - The Social Networks Listserv](https://www.insna.org/socnet)
 
 
 ## Online courses
