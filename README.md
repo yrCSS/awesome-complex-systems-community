@@ -73,6 +73,8 @@ for more info. **All contributions welcome!**
 - [Complex cities](https://sympa.unil.ch/sympa/subscribe/complex_cities)
 - [Complexity Digest](https://comdig.unam.mx/subscriptions/) (also a [Twitter
   account](https://twitter.com/cxdig))
+- [Complexity Thoughts](https://manlius.substack.com/)
+- [REDES - Social Networks Analysis (in Spanish)](https://webs.uab.cat/redes/forum/)
 - [SOCNET - The Social Networks Listserv](https://www.insna.org/socnet)
 
 
