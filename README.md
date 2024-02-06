@@ -154,4 +154,3 @@ for more info. **All contributions welcome!**
 - [awesome-PhD](https://github.com/helenahartmann/awesome-PhD)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
-- [Complexity Thoughts](https://manlius.substack.com/)
