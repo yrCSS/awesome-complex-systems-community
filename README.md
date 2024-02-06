@@ -73,6 +73,8 @@ for more info. **All contributions welcome!**
 - [Complex cities](https://sympa.unil.ch/sympa/subscribe/complex_cities)
 - [Complexity Digest](https://comdig.unam.mx/subscriptions/) (also a [Twitter
   account](https://twitter.com/cxdig))
+- [Complexity Thoughts](https://manlius.substack.com/)
+- [REDES - Social Networks Analysis (in Spanish)](https://webs.uab.cat/redes/forum/)
 - [SOCNET - The Social Networks Listserv](https://www.insna.org/socnet)
 
 
@@ -122,6 +124,7 @@ for more info. **All contributions welcome!**
 | Center for AI (CENTAI), Turin | IT | [🌐](https://centai.eu/home) | [📢](https://twitter.com/CentaiInstitute) |
 | Centro Ricerche Enrico Fermi (CREF), Rome | IT | [🌐](https://cref.it/en) | [📢](https://twitter.com/cref_official) |
 | Complex Human Behavior (CHuB) Lab, Fondazione Bruno Kessler, Trento | IT | [🌐](https://chub.fbk.eu/) | [📢](https://twitter.com/chub_fbk) |
+| Collaborative Laboratory of Interdisciplinary Physics (LIPh), University of Padova | IT | [🌐](https://www.liphlab.com/) | [📢](https://twitter.com/LIPh_Lab) |
 | CoMuNe Lab, University of Padova | IT | [🌐](https://manliodedomenico.com/people.php) | [📢](https://twitter.com/ComuneLab) |
 | IMT Lucca | IT | [🌐](https://www.imtlucca.it/en) | |
 | ISI Foundation, Turin | IT | [🌐](https://isi.it/) | [📢](https://twitter.com/ISI_Fondazione) |
