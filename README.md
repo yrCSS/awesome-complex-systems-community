@@ -86,6 +86,7 @@ for more info. **All contributions welcome!**
 - [Complexity Explorables by Dirk Brockmann](https://complexity-explorables.org/)
 - [Complex Networks course by Rémy Cazabet](http://cazabetremy.fr/Teaching/CN/ComplexNetworks.html)
 - [SFI's Complexity Explorer](https://www.complexityexplorer.org)
+- [The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu), by Michele Coscia
 
 
 ## PhD life
