@@ -99,6 +99,7 @@ for more info. **All contributions welcome!**
 - [So long, and thanks for all the tips](https://imstat.org/2022/04/01/written-by-witten-so-long-and-thanks-for-all-the-tips/)
 - [The Thesis Whisperer](https://thesiswhisperer.com/)
 - Twenty things I wish I’d known when I started my PhD, [Nature](https://www.nature.com/articles/d41586-018-07332-x) / [open access version](https://www.researchgate.net/profile/Lucy-Taylor-33/publication/328775212_Twenty_things_I_wish_I'd_known_when_I_started_my_PhD/links/5be60c1fa6fdcc3a8dcb198c/Twenty-things-I-wish-Id-known-when-I-started-my-PhD.pdf)
+- How to create a better research poster in less time [part 1](https://www.youtube.com/watch?v=1RwJbhkCA58), [part 2](https://www.youtube.com/watch?v=SYk29tnxASs)
 
 ## Institutes, departments and labs
 > Ordered alphabetically by country code and institution name.
