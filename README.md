@@ -136,6 +136,7 @@ for more info. **All contributions welcome!**
 | Centre for Complex Systems Studies, Utrecht | NL | [🌐](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss) | [📢](https://twitter.com/ccss_uu) |
 | Te Pūnaha Matatini, Auckland | NZ | [🌐](https://www.tepunahamatatini.ac.nz) | |
 | LASIGE, University of Lisbon | PT | [🌐](https://www.lasige.pt/research-line/data-and-systems-intelligence/) | |
+| Social Physics & Complexity (SPAC) Lab, LIP Lisbon | PT | [🌐](https://socialcomplexity.eu/) | [📢](https://twitter.com/SpacLab) |
 | The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London | UK | [🌐](https://www.ucl.ac.uk/bartlett/casa) | [📢](https://twitter.com/CASAUCL) |
 | Bio-Inspired Computing, Complex Networks, and Human Dynamics Laboratory, University of Exeter | UK | | [📢](https://twitter.com/BioComplexLab) |
 | Binghamton Center of Complex Systems (CoCo), Binghamton University | US | [🌐](http://coco.binghamton.edu) | [📢](https://twitter.com/BinghamtonCoCo) |
