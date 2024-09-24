@@ -109,8 +109,17 @@ for more info. **All contributions welcome!**
 | Complexity Science Hub (CSH), Vienna | AT | [🌐](https://www.csh.ac.at/) | [📢](https://twitter.com/CSHVienna) |
 | Department of Network & Data Science (DNDS), Central European University, Vienna | AT | [🌐](https://networkdatascience.ceu.edu) | [📢](https://twitter.com/dnds_ceu) |
 | Complex Systems and Data Science group, University of Sidney | AU | [🌐](https://www.maths.usyd.edu.au/u/ega/group/) | |
+| Center for Complex Systems, University of Namur | BE | [🌐](https://www.naxys.be/) | |
+| The Complex Systems Institute – Ghent University | BE | [🌐](https://csi.ugent.be/) | |
 | Computational Social Science (COSS), ETH Zürich | CH | [🌐](https://coss.ethz.ch/) | |
 | Instituto de Sistemas Complejos de Valparaiso (ICSV) | CL | [🌐](https://sistemascomplejos.cl/) | [📢](https://twitter.com/ComplejosISCV) |
+| Research on Complex Systems, Humboldt University | DE | [🌐](https://rocs.hu-berlin.de/) | |
+| MPI for the Physics of Complex Systems | DE | [🌐](https://www.pks.mpg.de/) | |
+| Potsdam Institute for Climate Impact Research | DE | [🌐](https://www.pik-potsdam.de/en)| |
+| Chair for Network Dynamics, TU Dresden | DE | [🌐](https://cfaed.tu-dresden.de/cfnd-about) | |
+| MPI for Dynamics and Self-Organization | DE | [🌐](https://www.ds.mpg.de/en) | |
+| Mathematics, Modelling and Simulation of Complex Systems, University of Bonn | DE | [🌐](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-1-modelling/home) | |
+| Self-Organization and Complexity, Münster University | DE | [🌐](https://www.uni-muenster.de/Physik.TP/en/research/thiele/research_fields.html) | |
 | Copenhagen Center for Social Data Science (SODAS), University of Copenhagen | DK | [🌐](https://sodas.ku.dk/) | [📢](https://twitter.com/CPH_SODAS) |
 | NEtwoRks, Data, and Society (NERDS), IT University of Copenhagen | DK | [🌐](https://nerds.itu.dk) | [📢](https://datasci.social/@nerdsitu) |
 | Complex Systems Lab, Universitat Pompeu Fabra, Barcelona | ES | [🌐](http://complex.upf.edu/) | |
@@ -134,6 +143,9 @@ for more info. **All contributions welcome!**
 | Sony Computer Science Laboratories (CSL) <br/> - Rome <br/> - Paris | <br/> IT <br/> FR | <br/> [🌐](https://csl.sony.it) <br/> [🌐](https://csl.sony.fr) | <br/> [📢](https://twitter.com/SonyCSLRome) <br/> [📢](https://twitter.com/SonyCSLParis) |
 | Complex Systems Department, Instituto de Física, Universidad Nacional Autónoma de México | MX | [🌐](https://www.fisica.unam.mx/investigacion/departamentos/sistemas_complejos/index.php?lang=en) | |
 | Centre for Complex Systems Studies, Utrecht | NL | [🌐](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss) | [📢](https://twitter.com/ccss_uu) |
+| Center for Social Complexity of Climate Change | NL | [🌐](https://www.sc3.center/) | | 
+| Computational Science Lab, University of Amsterdam | NL | [🌐](https://uva.computationalscience.nl/) | |
+| Institute for Advanced Study - University of Amsterdam | NL | [🌐](https://ias.uva.nl/) | |
 | Te Pūnaha Matatini, Auckland | NZ | [🌐](https://www.tepunahamatatini.ac.nz) | |
 | LASIGE, University of Lisbon | PT | [🌐](https://www.lasige.pt/research-line/data-and-systems-intelligence/) | |
 | Social Physics & Complexity (SPAC) Lab, LIP Lisbon | PT | [🌐](https://socialcomplexity.eu/) | [📢](https://twitter.com/SpacLab) |
