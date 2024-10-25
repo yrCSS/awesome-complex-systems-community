@@ -49,7 +49,7 @@ for more info. **All contributions welcome!**
 | NetHike | [🌐](https://sn.ethz.ch/nethike.html) | |
 | SFI | [🌐](https://santafe.edu/engage/learn/programs) | |
 | Spring College on the Physics of Complex Systems (ICTP) | [🌐](https://indico.ictp.it/event/10459) | [📢](https://twitter.com/ictpnews)
-| Winter Workshop on Complex Systems | [🌐](https://wwcs2024.github.io/) | [📢](https://twitter.com/winter_complex) |
+| Winter Workshop on Complex Systems | [🌐](https://wwcs2025.github.io/) | [📢](https://twitter.com/winter_complex) |
 
 
 
