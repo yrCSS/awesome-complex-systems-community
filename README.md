@@ -14,9 +14,9 @@ for more info. **All contributions welcome!**
 | AccelNet-MultiNet | [🌐](https://www.accelnet-multinet.org/) | [📢](https://twitter.com/MultilayerNets) |
 | Complex Systems Society | [🌐](https://cssociety.org) | [📢](https://twitter.com/CompSysSoc) |
 | Early and Middle Career Researchers on Social Networks (EMCRs) | [🌐](https://sites.google.com/view/emcrs-social-networks) | [📢](https://twitter.com/emcr_sna) |
-| International Network for Social Network Analysis (INSNA) | [🌐](https://www.insna.org/) | [📢](https://twitter.com/SocNetAnalysts) |
-| Networks, Phd Life And ComplExity Seminars (NetPLACE) | [🌐](https://sites.google.com/view/netplace/home-page) | [📢](https://twitter.com/netplace_semi) |
-| Network Science Society | [🌐](https://netscisociety.net/home) | [📢](https://twitter.com/netscisociety) |
+| International Network for Social Network Analysis (INSNA) | [🌐](https://www.insna.org) | [📢](https://bsky.app/profile/insna.bsky.social) |
+| Networks, PhD Life And ComplExity Seminars (NetPLACE) | [🌐](https://netplace.pages.dev/) | [📢](https://bsky.app/profile/netplace.bsky.social) |
+| Network Science Society | [🌐](https://netscisociety.net/home) | [📢](https://bsky.app/profile/netscisociety.bsky.social) |
 | Society of Young Network Scientists (SYNS) | [🌐](https://society-of-young-network-scientists.github.io/) | [📢](https://twitter.com/official_SYNS) |
 | Women in Network Science (WiNS) | [🌐](https://sites.google.com/view/womeninnetworkscience/) | [📢](https://twitter.com/WiNS_Society) |
 | Young Researchers of the Complex Systems Society (yrCSS) | [🌐](https://yrcss.cssociety.org/) | [📢](https://datasci.social/@yrCSS) |
@@ -27,11 +27,11 @@ for more info. **All contributions welcome!**
 
 |   |         |               |
 | - | :-----: | :-----------: |
-| CompleNet | [🌐](https://complenet.weebly.com/) | [📢](https://twitter.com/CompleNet) |
+| CompleNet | [🌐](https://complenet.weebly.com/) | [📢](https://bsky.app/profile/netplace.bsky.social) |
 | Complex Networks | [🌐](https://complexnetworks.org) | |
-| Conference on Complex Systems | [🌐](https://cssociety.org/ccs) | [📢](https://twitter.com/ConfCompSys) |
-| IC2S2 | | [📢](https://twitter.com/IC2S2) |
-| NetSci / NetSci-X | [🌐](https://netscisociety.net/events/netsci) | |
+| Conference on Complex Systems | [🌐](https://cssociety.org/ccs) | [📢](https://bsky.app/profile/css-conference.bsky.social) |
+| IC2S2 | | [📢](https://bsky.app/profile/ic2s2.bsky.social) |
+| NetSci / NetSci-X | [🌐](https://netscisociety.net/events/netsci) | [📢](https://bsky.app/profile/netsciconf.bsky.social) |
 | Sunbelt | [🌐](https://www.insna.org/events/insna-conferences) | |
 | Latin American Conference on Complex Networks (LANET) | [🌐](http://www.lanetconference.org) | |
 
@@ -41,15 +41,15 @@ for more info. **All contributions welcome!**
 
 |   |         |               |
 | - | :-----: | :-----------: |
-| Complexity 72h | [🌐](https://www.complexity72h.com/) | [📢](https://twitter.com/Complexity72h) |
+| Complexity 72h | [🌐](https://www.complexity72h.com/) | [📢](https://bsky.app/profile/complexity72h.bsky.social) |
 | IceLab Camp | [🌐](https://icelab.se/event) | [📢](https://twitter.com/IceLab_umea) |
 | Lake Como Schools <br/> - Advances in complex systems <br/> - Computational Social Science <br/> - Complex Networks | <br/> [🌐](https://acsz.lakecomoschool.org) <br/> [🌐](https://css.lakecomoschool.org) <br/> [🌐](https://ntmh.lakecomoschool.org) | |
 | Les Houches School of Physics | [🌐](https://www.houches-school-physics.com/program/) | |
-| Mediterranean School of Complex Networks | [🌐](https://mediterraneanschoolcomplex.net/) | [📢](https://twitter.com/MscxNetworks) |
+| Mediterranean School of Complex Networks | [🌐](https://mediterraneanschoolcomplex.net/) | [📢](https://bsky.app/profile/mscxnetworks.bsky.social) |
 | NetHike | [🌐](https://sn.ethz.ch/nethike.html) | |
 | SFI | [🌐](https://santafe.edu/engage/learn/programs) | |
 | Spring College on the Physics of Complex Systems (ICTP) | [🌐](https://indico.ictp.it/event/10459) | [📢](https://twitter.com/ictpnews)
-| Winter Workshop on Complex Systems | [🌐](https://wwcs2025.github.io/) | [📢](https://twitter.com/winter_complex) |
+| Winter Workshop on Complex Systems | [🌐](https://wwcs2025.github.io/) | [📢](https://bsky.app/profile/wwcs.bsky.social) |
 
 
 
@@ -62,7 +62,7 @@ for more info. **All contributions welcome!**
 | CoCo | [▶](http://coco.binghamton.edu/#seminar) | [📢](https://twitter.com/BinghamtonCoCo) |
 | IFISC | [▶](https://www.youtube.com/@IFISCseminars/videos) | [📢](https://ifisc.uib-csic.es/en/events/seminars/) |
 | Interaction Data Lab | [▶](https://www.youtube.com/@interactiondatalab2056/videos) | [📢](https://twitter.com/interactiondata) |
-| NetPLACE | [▶](https://www.youtube.com/@netplace3823/videos) | [📢](https://twitter.com/netplace_semi) |
+| NetPLACE | [▶](https://www.youtube.com/@netplace3823/videos) | [📢](https://bsky.app/profile/netplace.bsky.social) |
 | SFI | [▶](https://www.youtube.com/@SFIScience/videos) | [📢](https://twitter.com/sfiscience) |
 | WiNS | [▶](https://www.youtube.com/@winsseminar9853/videos) | [📢](https://twitter.com/WiNS_Society) |
 
@@ -96,7 +96,6 @@ for more info. **All contributions welcome!**
 - [EMCRs' "Academic life" page](https://sites.google.com/view/emcrs-social-networks/academic-life)
 - [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
 - [How to write a scientific paper](https://users.aalto.fi/~jsaramak/HowToWriteCommsCoffee.pdf) - Jari Saramäki [(talk at CCS2022 warm-up)](https://www.youtube.com/watch?v=czpwDkCTDjQ)
-- [NetPLACE "Blog" page](https://sites.google.com/view/netplace/blog)
 - [So long, and thanks for all the tips](https://imstat.org/2022/04/01/written-by-witten-so-long-and-thanks-for-all-the-tips/)
 - [The Thesis Whisperer](https://thesiswhisperer.com/)
 - Twenty things I wish I’d known when I started my PhD, [Nature](https://www.nature.com/articles/d41586-018-07332-x) / [open access version](https://www.researchgate.net/profile/Lucy-Taylor-33/publication/328775212_Twenty_things_I_wish_I'd_known_when_I_started_my_PhD/links/5be60c1fa6fdcc3a8dcb198c/Twenty-things-I-wish-Id-known-when-I-started-my-PhD.pdf)
