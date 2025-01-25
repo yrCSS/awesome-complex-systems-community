@@ -85,6 +85,7 @@ for more info. **All contributions welcome!**
 - [#ComplexityExplained](https://complexityexplained.github.io/)
 - [Complexity Explorables by Dirk Brockmann](https://complexity-explorables.org/)
 - [Complex Networks course by Rémy Cazabet](http://cazabetremy.fr/Teaching/CN/ComplexNetworks.html)
+- [Network Literacy: Essential Concepts and Core Ideas](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)
 - [SFI's Complexity Explorer](https://www.complexityexplorer.org)
 - [The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu), by Michele Coscia
 
@@ -143,7 +144,7 @@ for more info. **All contributions welcome!**
 | Sony Computer Science Laboratories (CSL) <br/> - Rome <br/> - Paris | <br/> IT <br/> FR | <br/> [🌐](https://csl.sony.it) <br/> [🌐](https://csl.sony.fr) | <br/> [📢](https://twitter.com/SonyCSLRome) <br/> [📢](https://twitter.com/SonyCSLParis) |
 | Complex Systems Department, Instituto de Física, Universidad Nacional Autónoma de México | MX | [🌐](https://www.fisica.unam.mx/investigacion/departamentos/sistemas_complejos/index.php?lang=en) | |
 | Centre for Complex Systems Studies, Utrecht | NL | [🌐](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss) | [📢](https://twitter.com/ccss_uu) |
-| Center for Social Complexity of Climate Change | NL | [🌐](https://www.sc3.center/) | | 
+| Center for Social Complexity of Climate Change | NL | [🌐](https://www.sc3.center/) | |
 | Computational Science Lab, University of Amsterdam | NL | [🌐](https://uva.computationalscience.nl/) | |
 | Institute for Advanced Study - University of Amsterdam | NL | [🌐](https://ias.uva.nl/) | |
 | Te Pūnaha Matatini, Auckland | NZ | [🌐](https://www.tepunahamatatini.ac.nz) | |
