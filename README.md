@@ -114,7 +114,6 @@ for more info. **All contributions welcome!**
 | Dynamica Research Lab – Université Laval | CA | [🌐](https://dynamicalab.github.io/) | |
 | Computational Social Science (COSS), ETH Zürich | CH | [🌐](https://coss.ethz.ch/) | |
 | Instituto de Sistemas Complejos de Valparaiso (ICSV) | CL | [🌐](https://sistemascomplejos.cl/) | [📢](https://twitter.com/ComplejosISCV) |
-| Research on Complex Systems, Humboldt University | DE | [🌐](https://rocs.hu-berlin.de/) | |
 | MPI for the Physics of Complex Systems | DE | [🌐](https://www.pks.mpg.de/) | |
 | Potsdam Institute for Climate Impact Research | DE | [🌐](https://www.pik-potsdam.de/en)| |
 | Chair for Network Dynamics, TU Dresden | DE | [🌐](https://cfaed.tu-dresden.de/cfnd-about) | |
