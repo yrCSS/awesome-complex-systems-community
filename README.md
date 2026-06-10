@@ -111,6 +111,7 @@ for more info. **All contributions welcome!**
 | Complex Systems and Data Science group, University of Sidney | AU | [🌐](https://www.maths.usyd.edu.au/u/ega/group/) | |
 | Center for Complex Systems, University of Namur | BE | [🌐](https://www.naxys.be/) | |
 | The Complex Systems Institute – Ghent University | BE | [🌐](https://csi.ugent.be/) | |
+| Dynamica Research Lab – Université Laval | CA | [🌐](https://dynamicalab.github.io/) | |
 | Computational Social Science (COSS), ETH Zürich | CH | [🌐](https://coss.ethz.ch/) | |
 | Instituto de Sistemas Complejos de Valparaiso (ICSV) | CL | [🌐](https://sistemascomplejos.cl/) | [📢](https://twitter.com/ComplejosISCV) |
 | Research on Complex Systems, Humboldt University | DE | [🌐](https://rocs.hu-berlin.de/) | |
