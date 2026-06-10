@@ -94,7 +94,7 @@ for more info. **All contributions welcome!**
 > Ordered alphabetically.
 
 - [EMCRs' "Academic life" page](https://sites.google.com/view/emcrs-social-networks/academic-life)
-- [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
+- [How to Be a Successful PhD Student](https://github.com/isi-nlp/tutorials/blob/master/gradschool/be-a-successful-phd-student_dredze-wallach.pdf)
 - [How to write a scientific paper](https://users.aalto.fi/~jsaramak/HowToWriteCommsCoffee.pdf) - Jari Saramäki [(talk at CCS2022 warm-up)](https://www.youtube.com/watch?v=czpwDkCTDjQ)
 - [So long, and thanks for all the tips](https://imstat.org/2022/04/01/written-by-witten-so-long-and-thanks-for-all-the-tips/)
 - [The Thesis Whisperer](https://thesiswhisperer.com/)
