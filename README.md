@@ -123,7 +123,7 @@ for more info. **All contributions welcome!**
 | Self-Organization and Complexity, Münster University | DE | [🌐](https://www.uni-muenster.de/Physik.TP/en/research/thiele/research_fields.html) | |
 | Copenhagen Center for Social Data Science (SODAS), University of Copenhagen | DK | [🌐](https://sodas.ku.dk/) | [📢](https://twitter.com/CPH_SODAS) |
 | NEtwoRks, Data, and Society (NERDS), IT University of Copenhagen | DK | [🌐](https://nerds.itu.dk) | [📢](https://datasci.social/@nerdsitu) |
-| Complex Systems Lab, Universitat Pompeu Fabra, Barcelona | ES | [🌐](http://complex.upf.edu/) | |
+| Complex Systems Lab, Universitat Pompeu Fabra, Barcelona | ES | [🌐](https://www.complexsystemslab.org/) | |
 | Grupo Interdisciplinar de Sistemas Complejos (GISC), Universidad Carlos III de Madrid | ES | [🌐](https://valbuena.fis.ucm.es/gisc) | [📢](https://twitter.com/gisc_group) |
 | Institute of Complex Systems of the University of Barcelona (UBICS), Barcelona | ES | [🌐](http://ubics.ub.edu/) | [📢](https://twitter.com/UB_ICS) |
 | Institute for Cross-Disciplinary Physics and Complex Systems (IFISC), Palma | ES | [🌐](https://ifisc.uib-csic.es/) | [📢](https://twitter.com/IFISC_mallorca) |
