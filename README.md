@@ -133,7 +133,6 @@ for more info. **All contributions welcome!**
 | Interaction Data Lab, Paris | FR | [🌐](https://interactiondatalab.com/) | [📢](https://twitter.com/interactiondata) |
 | Centre for Complexity and Complex Networks, City University of Hong Kong | HK | [🌐](http://cccn.ee.cityu.edu.hk) | |
 | Agglomeration and Social Networks (ANET) Lab, Budapest | HU | [🌐](https://anet.krtk.mta.hu/) | [📢](https://twitter.com/AnetiLabs) |
-| Center for AI (CENTAI), Turin | IT | [🌐](https://centai.eu/home) | [📢](https://twitter.com/CentaiInstitute) |
 | Centro Ricerche Enrico Fermi (CREF), Rome | IT | [🌐](https://cref.it/en) | [📢](https://twitter.com/cref_official) |
 | Complex Human Behavior (CHuB) Lab, Fondazione Bruno Kessler, Trento | IT | [🌐](https://chub.fbk.eu/) | [📢](https://twitter.com/chub_fbk) |
 | Collaborative Laboratory of Interdisciplinary Physics (LIPh), University of Padova | IT | [🌐](https://www.liphlab.com/) | [📢](https://twitter.com/LIPh_Lab) |
