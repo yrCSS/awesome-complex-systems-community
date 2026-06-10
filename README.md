@@ -46,7 +46,7 @@ for more info. **All contributions welcome!**
 | Lake Como Schools <br/> - Advances in complex systems <br/> - Computational Social Science <br/> - Complex Networks | <br/> [🌐](https://acsz.lakecomoschool.org) <br/> [🌐](https://css.lakecomoschool.org) <br/> [🌐](https://ntmh.lakecomoschool.org) | |
 | Les Houches School of Physics | [🌐](https://www.houches-school-physics.com/program/) | |
 | Mediterranean School of Complex Networks | [🌐](https://mediterraneanschoolcomplex.net/) | [📢](https://bsky.app/profile/mscxnetworks.bsky.social) |
-| NetHike | [🌐](https://sn.ethz.ch/nethike.html) | |
+| NetHike | [🌐](https://sn.ethz.ch/events/nethike.html) | |
 | SFI | [🌐](https://santafe.edu/engage/learn/programs) | |
 | Spring College on the Physics of Complex Systems (ICTP) | [🌐](https://indico.ictp.it/event/10459) | [📢](https://twitter.com/ictpnews)
 | Winter Workshop on Complex Systems | [🌐](https://wwcs2025.github.io/) | [📢](https://bsky.app/profile/wwcs.bsky.social) |
@@ -94,7 +94,7 @@ for more info. **All contributions welcome!**
 > Ordered alphabetically.
 
 - [EMCRs' "Academic life" page](https://sites.google.com/view/emcrs-social-networks/academic-life)
-- [How to Be a Successful PhD Student](https://github.com/isi-nlp/tutorials/blob/master/gradschool/be-a-successful-phd-student_dredze-wallach.pdf)
+- [How to Be a Successful PhD Student](https://github.com/isi-nlp/tutorials/blob/master/gradschool/be-a-successful-phd-student_dredze-wallach.pdf?raw=true)
 - [How to write a scientific paper](https://users.aalto.fi/~jsaramak/HowToWriteCommsCoffee.pdf) - Jari Saramäki [(talk at CCS2022 warm-up)](https://www.youtube.com/watch?v=czpwDkCTDjQ)
 - [So long, and thanks for all the tips](https://imstat.org/2022/04/01/written-by-witten-so-long-and-thanks-for-all-the-tips/)
 - [The Thesis Whisperer](https://thesiswhisperer.com/)
